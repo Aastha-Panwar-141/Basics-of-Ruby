@@ -57,4 +57,4 @@ uniq - duplicate elements can be removed from an array. It returns the remaining
 days = ["Fri", "Sat", "Sun", "Sat"]   
 puts days.uniq  # fri, sat, sun 
 
-=begin
+=end
