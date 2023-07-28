@@ -1,0 +1,113 @@
+1 GENERAL OVERVIEW OF RUBY Day #1-10
+
+Home
+Overview
+Environment
+Syntax
+Classes
+Variables
+Operators
+Comments
+IF...ELSE
+Loops
+Methods
+Blocks
+Modules
+Strings
+Arrays
+Hashes
+Date &amp; Time
+Ranges
+Iterators
+File I/O
+Exceptions
+self, super
+Object Oriented
+Regular Expressions
+Block, Proc, Lambda in deep
+Multithreading
+Modules &amp; Mixin
+Meta Programming
+Overview of Ruby Gems
+
+Trinning Mile Stone3 Day 11-12
+Ruby Programming Test and oops concept test
+Provide feedback of test
+
+
+2 GENERAL OVERVIEW OF DBMS Day #13-14
+
+Postgres
+Mysql
+Sqlite
+Primary key
+Foriegn key
+Composite key
+Unique key
+Constraints
+Default values
+Indexes
+Joins
+Sql Optimization
+Relationships: One-One, One-Many, Many-Many
+
+
+3 GIT 15-16
+Detailed Study of Git
+
+12 GENERAL OVERVIEW OF RVM, RBENV Day #17
+
+Intorduction
+Install and uninstall rubies
+Swich rubies
+Create gemset
+Swich gemset
+
+
+4 RUBY ON RAILS Day #18-27
+Start Here
+Getting Started with Rails
+
+Models
+Active Record Basics
+Active Record Migrations
+Active Record Validations
+Active Record Callbacks
+Active Record Associations
+Active Record Query Interface
+
+Views
+Layouts and Rendering in Rails
+Action View Form Helpers
+
+Controllers
+Action Controller Overview
+Rails Routing from the Outside In
+
+Digging Deeper
+Rails Internationalization API
+Action Mailer Basics
+Active Job Basics
+Testing Rails Applications
+The Rails Command Line
+Debugging Rails Applications
+Asset Pipeline
+Working with JavaScript in Rails
+Active Support Core Extensions
+Configuring Rails Applications
+Securing Rails Applications
+Caching with Rails: An Overview
+Using Rails for API-only Applications
+Action Cable Overview
+
+
+5 Using postman for api calling 28-29
+
+5 INCIUDE FOLLOWING IN DEMO PROJECT Day #30-35
+
+Study about assential gems
+Heroku
+Image Uploading and proccessing (S3 or Dropbox)
+Social Media Integraion
+Testing Rails Application
+Provide feedback of rails demo
